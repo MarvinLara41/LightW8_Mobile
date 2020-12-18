@@ -1,0 +1,30 @@
+{
+  "name": "lightw8_mobile",
+  "version": "1.0.0",
+  "description": "Mobile version of LightW8 deskstop",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon --watch server.js --exec node --experimental-modules server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvinLara41/LightW8_Mobile.git"
+  },
+  "author": "Marvin Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarvinLara41/LightW8_Mobile/issues"
+  },
+  "homepage": "https://github.com/MarvinLara41/LightW8_Mobile#readme"
+}
