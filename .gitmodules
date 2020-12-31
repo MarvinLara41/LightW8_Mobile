@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git+https://github.com/MarvinLara41/LightW8_Mobile.git
